@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ates
 
-<!--
-**ifnidbi/ifnidbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Software Engineering student  
+🔧 Tinkerer and builder — I’ve been coding with C++ and Arduino since I was 9  
+🐍 Currently completing the [100 Days of Code – Python Bootcamp](https://www.udemy.com/course/100-days-of-code/)  
+💡 Building projects that blend hardware with software (check out my upcoming GitHub uploads)
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+- C++, Python, HTML/CSS, JavaScript
+- Arduino, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Goals
+- Upload 3 Arduino showcase projects
+- Finish 100 Days of Python by <ins>September 4th, 2025</ins>
+- Be fully prepared for co-op applications by the end of 2nd year
+
+---
+
+🔗 [Check out my 100-days-python repo](https://github.com/ifnidbi/100-days-python)
