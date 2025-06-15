@@ -11,7 +11,7 @@
 
 ## 📌 Current Goals
 - Upload 3 Arduino showcase projects
-- Finish 100 Days of Python by <ins>September 4th, 2025</ins>
+- Finish 100 Days of Python by <ins>September 30th, 2025</ins>
 - Be fully prepared for co-op applications by the end of 2nd year
 
 ---
