@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Ates
 
-🎓 First-year Software Engineering student  
+🎓 Second-year Software Engineering & CO-OP student  
 🔧 Tinkerer and builder — I’ve been coding with C++ and Arduino since I was 9  
 🐍 Currently completing the [100 Days of Code – Python Bootcamp](https://www.udemy.com/course/100-days-of-code/)  
 💡 Building projects that blend hardware with software (check out my upcoming GitHub uploads)
 
 ## 🛠️ Languages & Tools
-- C++, Python, HTML/CSS, JavaScript
+- C++, Java, Python, HTML/CSS, JavaScript
 - Arduino, Git, GitHub
 
 ## 📌 Current Goals
